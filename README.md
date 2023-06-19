@@ -1,6 +1,6 @@
-# vanillajs-hearts-animation
+# vanillajs-heart-animation
 
-vanillajs-hearts-animation is an enchanting project that brings captivating animations to life using pure vanilla JavaScript. Delight in the mesmerizing display of vibrant hearts gracefully descending on the screen, showcasing the endless possibilities and creative potential of JavaScript. The project stands out by leveraging the power of JavaScript without relying on external libraries or frameworks.
+vanillajs-heart-animation is an enchanting project that brings captivating animations to life using pure vanilla JavaScript. Delight in the mesmerizing display of vibrant hearts gracefully descending on the screen, showcasing the endless possibilities and creative potential of JavaScript. The project stands out by leveraging the power of JavaScript without relying on external libraries or frameworks.
 
 ## Features
 
@@ -15,7 +15,7 @@ Follow these steps to run vanillajs-hearts-animation locally:
 
 1. Clone the repository: git clone [https://github.com/smarttechmukesh/vanillajs-heart-animation.git](https://github.com/smarttechmukesh/vanillajs-heart-animation.git)
 
-2. Navigate to the project directory: cd vanillajs-hearts-animation
+2. Navigate to the project directory: cd vanillajs-heart-animation
 
 3. Open `index.html` in your preferred web browser.
 
@@ -29,7 +29,7 @@ Contributions to vanillajs-hearts-animation are welcome! If you have any ideas, 
 
 ## License
 
-vanillajs-hearts-animation is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
+vanillajs-heart-animation is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
 
 Unleash your creativity and immerse yourself in the enchanting world of vanillajs-hearts-animation, where JavaScript brings hearts to life with captivating animations.
 
