@@ -35,3 +35,6 @@ Unleash your creativity and immerse yourself in the enchanting world of vanillaj
 
 ## Official Website
 [Visit Our Official Website](https://smarttechmukesh.com/)
+
+## Tutorial
+[How to Add Heart Click Animation in Blogger and WordPress ?](https://smarttechmukesh.com/heart-click-animation/)
