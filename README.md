@@ -13,7 +13,7 @@ vanillajs-hearts-animation is an enchanting project that brings captivating anim
 
 Follow these steps to run vanillajs-hearts-animation locally:
 
-1. Clone the repository: git clone https://github.com/smarttechmukesh/vanillajs-heart-animation.git
+1. Clone the repository: git clone [https://github.com/smarttechmukesh/vanillajs-heart-animation.git](https://github.com/smarttechmukesh/vanillajs-heart-animation.git)
 
 2. Navigate to the project directory: cd vanillajs-hearts-animation
 
